@@ -1,0 +1,33 @@
+// ==UserScript==
+// @name         New York Times Paywall Hider
+// @namespace    https://github.com/Matthematic/userscripts
+// @version      2024-07-01
+// @description  Removes the signup/pay wall on NYT articles
+// @author       Matthematic
+// @match        https://www.nytimes.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=nytimes.com
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    const css = `
+        #gateway-content, [data-testid="vi-gateway-container"] > div:nth-child(3) {
+            display: none!important;
+        }
+        [data-testid="vi-gateway-container"] {
+            position: static;
+            overflow: auto;
+        }
+    `;
+
+    function injectCSS() {
+        const style = document.createElement('style');
+        style.type = 'text/css';
+        style.appendChild(document.createTextNode(css));
+        document.head.appendChild(style);
+    }
+
+    injectCSS();
+})();
