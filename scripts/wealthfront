@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Wealthfront Graph Hider
+// @name         wealthfront
 // @namespace    https://github.com/Matthematic/userscripts
 // @version      2024-07-01
-// @description  Removes the graph from the Wealthfront dashboard
+// @description  Hides things on wealthfront
 // @author       Matthematic
 // @match        https://www.wealthfront.com/dashboard
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wealthfront.com
