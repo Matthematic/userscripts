@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Old Reddit Scrollbar
+// @name         reddit
 // @namespace    https://github.com/Matthematic/userscripts
 // @version      2024-06-30
-// @description  Styles the old reddit scrollbar to not be so ugly
+// @description  Hides things on reddit
 // @author       MAtthematic
 // @match        https://www.reddit.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
