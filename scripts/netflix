@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Netflix
+// @name         netflix
 // @namespace    https://github.com/Matthematic/userscripts
 // @version      2024-06-30
-// @description  Hides things on Netflix
+// @description  Hides things on netflix
 // @author       Matthematic
 // @match        https://*.netflix.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=netflix.com
