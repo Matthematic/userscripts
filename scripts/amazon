@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Prime Video QuickView Hider
+// @name         amazon
 // @namespace    https://github.com/Matthematic/userscripts
 // @version      2024-07-01
-// @description  try to take over the world!
+// @description  Hides things on amazon
 // @author       Matthematic
 // @match        https://www.amazon.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
