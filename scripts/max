@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Max
+// @name         max
 // @namespace    https://github.com/Matthematic/userscripts
 // @version      2024-06-30
-// @description  Hides things on Max.com
+// @description  Hides things on max
 // @author       Matthematic
 // @match        https://*.max.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=max.com
