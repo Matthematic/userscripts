@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Max.com Gradient Hider
+// @name         Max
 // @namespace    https://github.com/Matthematic/userscripts
 // @version      2024-06-30
-// @description  Hides the stupid dumb gradients on the max.com player
+// @description  Hides things on Max.com
 // @author       Matthematic
 // @match        https://*.max.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=max.com
